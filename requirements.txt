@@ -1,0 +1,30 @@
+# Essential packages for the nutrition RAG system
+# Core dependencies
+tiktoken==0.11.0
+supabase==2.22.0
+openai==1.109.1
+tqdm==4.67.1
+python-dotenv==1.1.1
+
+# PDF processing
+PyMuPDF==1.26.5
+PyPDF2==3.0.1
+pdfplumber==0.11.7
+
+# Data processing
+numpy==2.3.2
+pandas==2.3.2
+
+# Optional: Enhanced text processing
+nltk==3.9.2
+textstat==0.7.10
+
+# Optional: Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==6.3.1
+
+# Optional: Development tools
+jupyter==1.1.1
+ipython==9.6.0
+streamlit==1.49.1

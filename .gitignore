@@ -1,0 +1,23 @@
+.vercel
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Node/Next (safety, app-specific ignore in rag-chat/.gitignore)
+node_modules/
+.next/
+out/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
