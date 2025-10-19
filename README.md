@@ -1,3 +1,6 @@
+# My Awesome Project
+Check out the **live demo** https://rag-chat-kohl-two.vercel.app/
+
 # NutriBot – Nutrition RAG + Sleek Chat UI (Next.js)
 
 A Retrieval-Augmented Generation (RAG) project that ingests a nutrition PDF into Supabase and serves a minimal, OpenAI‑style chat experience (Next.js App Router) with citations and subtle UI polish.
